@@ -25,4 +25,4 @@ We’re going to make a Las Vegas dice app. You can make the die roll at the pre
 
 # Display Mode
 
-< img src ="images/mode.png" width="350" height="500" >
+<img src ="images/mode.png" width="350" height="500">
